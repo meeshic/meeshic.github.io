@@ -26,7 +26,8 @@ body {
 }
 
 m {
-    font-family: "Courier New", Courier, monospace;
+    /*font-family: "Courier New", Courier, monospace;*/
+    font-family: Satisfy, cursive;
     font-size: 85px;
     font-weight: normal;
 }
