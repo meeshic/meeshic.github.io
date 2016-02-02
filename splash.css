@@ -15,7 +15,7 @@ body {
 }
 
 .enter-button:hover {
-    color: red;
+    color: green;
     cursor: pointer;
 }
 
