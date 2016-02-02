@@ -11,11 +11,11 @@ body {
     display: block;
     color: white;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 50px;
 }
 
 .enter-button:hover {
-    color: green;
+    color: black;
     cursor: pointer;
 }
 
