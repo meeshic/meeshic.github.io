@@ -5,7 +5,6 @@ body.one {
 body.hello {
     background:url('http://cdn1.theodysseyonline.com/files/2016/01/15/635884160300123905380021068_help-dog-picture.jpg');
     background-size: 100% auto;
-    background-position: center center;
     background-repeat: no-repeat;
 }
 
