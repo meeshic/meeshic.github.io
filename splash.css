@@ -3,7 +3,7 @@ body.one {
     
 }
 body.hello {
-    background:url('http://cdn1.theodysseyonline.com/files/2016/01/15/635884160300123905380021068_help-dog-picture.jpg');
+    background:url('http://cdn1.theodysseyonline.com/files/2016/01/15/635884160300123905380021068_help-dog-picture.jpg'), url('https://pbs.twimg.com/profile_images/378800000532546226/dbe5f0727b69487016ffd67a6689e75a.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
