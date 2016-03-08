@@ -5,9 +5,8 @@ body.one {
 body.hello {
     background:url('http://cdn1.theodysseyonline.com/files/2016/01/15/635884160300123905380021068_help-dog-picture.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
+    background-size: 100% 500%;
+    background-position: center;
 }
 
 .splash {
